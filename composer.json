@@ -1,0 +1,24 @@
+{
+  "name": "webtheory/symfony-mailer-pack",
+  "description": "All your mailer are belong to us",
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Williams",
+      "email": "spider.mane.web@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "symfony/amazon-mailer": "5.4.x-dev",
+    "symfony/google-mailer": "5.4.x-dev",
+    "symfony/mailchimp-mailer": "5.4.x-dev",
+    "symfony/mailgun-mailer": "5.4.x-dev",
+    "symfony/mailjet-mailer": "5.4.x-dev",
+    "symfony/postmark-mailer": "5.4.x-dev",
+    "symfony/sendgrid-mailer": "5.4.x-dev",
+    "symfony/sendinblue-mailer": "5.4.x-dev",
+    "symfony/oh-my-smtp-mailer": "5.4.x-dev"
+  }
+}
