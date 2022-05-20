@@ -9,16 +9,15 @@
       "email": "spider.mane.web@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
-    "symfony/amazon-mailer": "5.4.x-dev",
-    "symfony/google-mailer": "5.4.x-dev",
-    "symfony/mailchimp-mailer": "5.4.x-dev",
-    "symfony/mailgun-mailer": "5.4.x-dev",
-    "symfony/mailjet-mailer": "5.4.x-dev",
-    "symfony/postmark-mailer": "5.4.x-dev",
-    "symfony/sendgrid-mailer": "5.4.x-dev",
-    "symfony/sendinblue-mailer": "5.4.x-dev",
-    "symfony/oh-my-smtp-mailer": "5.4.x-dev"
+    "symfony/amazon-mailer": "5.4",
+    "symfony/google-mailer": "5.4",
+    "symfony/mailchimp-mailer": "5.4",
+    "symfony/mailgun-mailer": "5.4",
+    "symfony/mailjet-mailer": "5.4",
+    "symfony/postmark-mailer": "5.4",
+    "symfony/sendgrid-mailer": "5.4",
+    "symfony/sendinblue-mailer": "5.4",
+    "symfony/oh-my-smtp-mailer": "5.4"
   }
 }
